@@ -1,3 +1,4 @@
+layout_spectrum: 0.11897821468301117
 typography_spectrum: 0.09612457850016654
 color:
   brandStrength: 0.9882187349721789
@@ -10,6 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.11897821468301117
 name: testdaniel
-description: eww
