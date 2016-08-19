@@ -1,0 +1,14 @@
+layout_spectrum: 0.11897821468301117
+typography_spectrum: 0.09612457850016654
+color:
+  brandStrength: 0.9882187349721789
+  lightness: 0.3617998738773167
+  saturation: 0.2714518813882023
+  rhythmicContrast: 0.13748141285032034
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: testdaniel
